@@ -18,9 +18,9 @@
       <!-- Keras -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50">
       <!-- Scikit-learn -->
-      <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-learn" width="70" height="70">
+      <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-learn" width="60" height="60">
       <!-- PySpark -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="70" height="70">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="60" height="60">
       <!-- Kubernetes -->
       <img src="https://www.svgrepo.com/show/353983/kubernetes.svg" alt="Kubernetes" width="50" height="50">
       <!-- Docker -->
