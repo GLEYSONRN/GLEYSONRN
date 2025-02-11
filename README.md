@@ -1,7 +1,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; text-align: center;">
   <!-- Tecnologias (Fundo Branco) -->
   <div style="flex: 1; min-width: 300px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <h2>Experiente nas Stacks:</h2>
+    <h2>Experienced in Stacks:</h2>
     <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center;">
       <!-- Python -->
       <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
