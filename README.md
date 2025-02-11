@@ -6,7 +6,7 @@
       </a>
     </td>
     <td align="center">
-      <h2>Domínio das seguintes tecnologias:</h2>
+      <h2>Experiente nas Staks:</h2>
       <p>
         <!-- Python -->
         <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Gleyson-Python" width="30" height="40"> 
