@@ -10,7 +10,7 @@
   <!-- Tecnologias -->
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <h2>Experiente nas Stacks:</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center; background-color: white; padding: 10px;">
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center; background-color: red; padding: 10px;">
       <!-- Python -->
       <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Gleyson-Python" width="50" height="50"> 
       <!-- TensorFlow -->
