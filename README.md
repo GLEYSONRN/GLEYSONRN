@@ -12,27 +12,57 @@
     <h2>Experiente nas Stacks:</h2>
     <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center;">
       <!-- Python -->
-      <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="50" height="50">
+      <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Gleyson-Python" width="50" height="50">
+      </a>
       <!-- TensorFlow -->
-      <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="TensorFlow" width="50" height="50">
+      <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Gleyson-TensorFlow" width="50" height="50">
+      </a>
       <!-- Keras -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50">
+      <a href="https://keras.io" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Gleyson-Keras" width="50" height="50">
+      </a>
       <!-- Scikit-learn -->
-      <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-learn" width="60" height="60">
+      <a href="https://scikit-learn.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Gleyson-Scikit-learn" width="60" height="60">
+      </a>
       <!-- PySpark -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="60" height="60">
+      <a href="https://spark.apache.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Gleyson-PySpark" width="60" height="60">
+      </a>
       <!-- Kubernetes -->
-      <img src="https://www.svgrepo.com/show/353983/kubernetes.svg" alt="Kubernetes" width="50" height="50">
+      <a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.svgrepo.com/show/353983/kubernetes.svg" alt="Gleyson-Kubernetes" width="50" height="50">
+      </a>
       <!-- Docker -->
-      <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="Docker" width="50" height="50">
+      <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="Gleyson-Docker" width="50" height="50">
+      </a>
       <!-- SQL -->
-      <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="SQL" width="50" height="50">
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="Gleyson-SQL" width="50" height="50">
+      </a>
+      <!-- Dask -->
+      <a href="https://www.dask.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://docs.dask.org/en/stable/_images/dask_icon.svg" alt="Gleyson-Dask" width="50" height="50">
+      </a>
+      <!-- OpenCV -->
+      <a href="https://opencv.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="Gleyson-OpenCV" width="50" height="50">
+      </a>
       <!-- Google Cloud -->
-      <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="Google Cloud" width="50" height="50">
+      <a href="https://cloud.google.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="Gleyson-Google Cloud" width="50" height="50">
+      </a>
       <!-- AWS -->
-      <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS" width="50" height="50">
+      <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="Gleyson-AWS" width="50" height="50">
+      </a>
       <!-- GitLab -->
-      <img src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="GitLab" width="50" height="50">
+      <a href="https://about.gitlab.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="Gleyson-GitLab" width="50" height="50">
+      </a>
     </div>
   </div>
 
