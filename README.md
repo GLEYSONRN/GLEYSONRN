@@ -27,6 +27,18 @@
       <a href="https://scikit-learn.org" target="_blank" rel="noopener noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Gleyson-Scikit-learn" width="60" height="60">
       </a>
+      <!-- ChatGPT -->
+      <a href="https://openai.com/chatgpt" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="Gleyson-ChatGPT" width="60" height="60">
+      </a>
+      <!-- Gemini -->
+      <a href="https://deepmind.google/gemini" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gleyson-Gemini" width="60" height="60">
+      </a>
+      <!-- DeepSeek -->
+      <a href="https://deepseek.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg" alt="Gleyson-DeepSeek" width="60" height="60">
+      </a>
       <!-- PySpark -->
       <a href="https://spark.apache.org" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Gleyson-PySpark" width="60" height="60">
@@ -40,7 +52,7 @@
         <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="Gleyson-Docker" width="50" height="50">
       </a>
       <!-- SQL -->
-      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.w3schools.com/sql/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="Gleyson-SQL" width="50" height="50">
       </a>
       <!-- Dask -->
