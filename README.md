@@ -3,7 +3,7 @@
   <!-- Estatísticas do GitHub -->
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=gleysonrn&show_icons=true&theme=onedark" alt="Gleyson's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=gleysonrn&show_icons=true&theme=vampire" alt="Gleyson's GitHub stats">
     </a>
   </div>
 
