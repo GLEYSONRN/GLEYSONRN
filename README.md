@@ -1,12 +1,4 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; text-align: center;">
-
-  <!-- Estatísticas do GitHub -->
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=gleysonrn&show_icons=true&theme=vampire" alt="Gleyson's GitHub stats">
-    </a>
-  </div>
-
   <!-- Tecnologias (Fundo Branco) -->
   <div style="flex: 1; min-width: 300px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
     <h2>Experiente nas Stacks:</h2>
