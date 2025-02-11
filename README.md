@@ -44,7 +44,7 @@
         <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="Gleyson-Docker" width="50" height="50">
       </a>
       <!-- SQL -->
-      <a href="https://www.w3schools.com/sql/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="Gleyson-SQL" width="50" height="50">
       </a>
       <!-- Dask -->
