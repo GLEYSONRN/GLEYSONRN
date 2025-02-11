@@ -16,7 +16,7 @@
       <!-- TensorFlow -->
       <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="TensorFlow" width="50" height="50">
       <!-- Keras -->
-      <img src="https://www.svgrepo.com/show/306292/keras.svg" alt="Keras" width="50" height="50">
+      <img src=https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50">
       <!-- Scikit-learn -->
       <img src="https://www.svgrepo.com/show/473778/scikitlearn.svg" alt="Scikit-learn" width="50" height="50">
       <!-- PySpark -->
