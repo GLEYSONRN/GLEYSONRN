@@ -2,11 +2,11 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- Python -->
-  <img src="https://www.svgrepo.com/show/376344/python.svg" alt="Python" width="30" height="40"> 
+  <img src="https://www.svgrepo.com/svg/354238/python" alt="Python" width="30" height="40"> 
   <!-- TensorFlow -->
   <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="TensorFlow" width="30" height="40">
   <!-- Keras -->
-  <img src="https://www.svgrepo.com/svg/341962/keras" alt="Keras" width="30" height="40"> 
+  <img src="https://www.svgrepo.com/svg/306292/keras" alt="Keras" width="30" height="40"> 
   <!-- Scikit-learn -->
   <img src="https://www.svgrepo.com/show/354202/scikit-learn.svg" alt="Scikit-learn" width="30" height="40">
   <!-- ChatGPT -->
