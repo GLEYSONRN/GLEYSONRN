@@ -71,6 +71,7 @@
   </div>
 </div>
 
+
 <!-- M2L Summer School 2024 -->
 <div style="margin-top: 40px; padding: 20px; text-align: center; background-color: #f8f9fa; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
   <h1>Portfolio</h1>
