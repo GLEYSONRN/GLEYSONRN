@@ -82,4 +82,4 @@
 | --- | --- |
 | [Transformer Encoder Classification](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP01_Transformer_Encoder_Classification.ipynb) | [Image Classification With CNN](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV01_Image_classification_with_CNN.ipynb) |
 | [Transformer Decoder MoE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP02_Transformer_Decoder_MoE.ipynb) | [Semantic Segmentation With Vision Transformer](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV02_Semantic_Segmentation_with_Vision_Transformer.ipynb) |
-| [LLM Fine-Tuning with LoRA](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP03_LoRA.ipynb) | [Vector_Quantization_with VQ-VAE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV03_Vector_Quantization_with_Variational_AutoEncoder.ipynb) |
+| [LLM Fine-Tuning With LoRA](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP03_LoRA.ipynb) | [Vector_Quantization_With VQ-VAE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV03_Vector_Quantization_with_Variational_AutoEncoder.ipynb) |
