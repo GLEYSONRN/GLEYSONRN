@@ -55,6 +55,10 @@
       <a href="https://opencv.org" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="Gleyson-OpenCV" width="50" height="50">
       </a>
+      <!-- PowerBI -->
+      <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" style="display: flex; text-decoration: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Gleyson-PowerBI" width="50" height="50">
+      </a>
       <!-- Google Cloud -->
       <a href="https://cloud.google.com" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
         <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="Gleyson-Google Cloud" width="50" height="50">
@@ -74,8 +78,8 @@
 ## Portfolio
 ### M2L Summer School 2024 (Milan - Italy)
 
-| Natural Language Processing (NLP) | Computer Vision |
+| LLM and NLP | Computer Vision |
 | --- | --- |
 | [Transformer Encoder Classification](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP01_Transformer_Encoder_Classification.ipynb) | [Image Classification With CNN](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV01_Image_classification_with_CNN.ipynb) |
 | [Transformer Decoder MoE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP02_Transformer_Decoder_MoE.ipynb) | [Semantic Segmentation With Vision Transformer](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV02_Semantic_Segmentation_with_Vision_Transformer.ipynb) |
-| [LoRA](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP03_LoRA.ipynb) | |
+| [LLM Fine-Tuning with LoRA](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP03_LoRA.ipynb) | [Vector_Quantization_with VQ-VAE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV03_Vector_Quantization_with_Variational_AutoEncoder.ipynb) |
