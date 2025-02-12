@@ -72,6 +72,7 @@
 </div>
 
 <div style="flex: 1; min-width: 300px; background-color: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-top: 20px; text-align: center;">
+  <h1>Portfolio</h1>
   <h2>M2L Summer School 2024</h2>
   <h3>Natural Language Processing (NLP)</h3>
   <ul style="list-style-type: none; padding: 0;">
