@@ -78,14 +78,8 @@
 ## Portfolio
 ### M2L Summer School 2024 (Milan - Italy)
 
-| LLM and NLP | Computer Vision |
-| --- | --- |
-| [Transformer Encoder Classification](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP01_Transformer_Encoder_Classification.ipynb) | [Image Classification With CNN](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV01_Image_classification_with_CNN.ipynb) |
-| [Transformer Decoder MoE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP02_Transformer_Decoder_MoE.ipynb) | [Semantic Segmentation With Vision Transformer](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV02_Semantic_Segmentation_with_Vision_Transformer.ipynb) |
-| [LLM Fine-Tuning With LoRA](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP03_LoRA.ipynb) | [Vector_Quantization_With VQ-VAE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV03_Vector_Quantization_with_Variational_AutoEncoder.ipynb) |
-
-| Reinforcement Learning | Graph Neural Networks |
-| --- | --- |
-| [Introduction to Reinforcement Learning](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL01_Introduction_to_Reinforcement_Learning.ipynb) | [Introduction to GNNs](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN01_Introduction_to_gnns.ipynb) |
-| [Policy Gradient Methods](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL02_Policy_gradient_methods.ipynb) | [Missing Data Estimation](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN02_Missing_data_estimation.ipynb) |
-| [Reinforcement Learning With Human Feedback](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL03_Reinforcement_Learning_with_Human_Feedback.ipynb) | [Scaling GNNs to Massive Graphs](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN03_Scaling_GNNs_to_massive_graphs.ipynb) |
+| LLM and NLP | Computer Vision | Reinforcement Learning | Graph Neural Networks |
+| --- | --- | --- | --- |
+| [Transformer Encoder Classification](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP01_Transformer_Encoder_Classification.ipynb) | [Image Classification With CNN](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV01_Image_classification_with_CNN.ipynb) | [Introduction to Reinforcement Learning](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL01_Introduction_to_Reinforcement_Learning.ipynb) | [Introduction to GNNs](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN01_Introduction_to_gnns.ipynb) |
+| [Transformer Decoder MoE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP02_Transformer_Decoder_MoE.ipynb) | [Semantic Segmentation With Vision Transformer](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV02_Semantic_Segmentation_with_Vision_Transformer.ipynb) | [Policy Gradient Methods](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL02_Policy_gradient_methods.ipynb) | [Missing Data Estimation](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN02_Missing_data_estimation.ipynb) |
+| [LLM Fine-Tuning With LoRA](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP03_LoRA.ipynb) | [Vector Quantization With VQ-VAE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV03_Vector_Quantization_with_Variational_AutoEncoder.ipynb) | [Reinforcement Learning With Human Feedback](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL03_Reinforcement_Learning_with_Human_Feedback.ipynb) | [Scaling GNNs to Massive Graphs](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN03_Scaling_GNNs_to_massive_graphs.ipynb) |
