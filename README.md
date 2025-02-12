@@ -70,3 +70,13 @@
     </div>
   </div>
 </div>
+
+<div style="flex: 1; min-width: 300px; background-color: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-top: 20px; text-align: center;">
+  <h2>M2L Summer School 2024</h2>
+  <h3>Natural Language Processing (NLP)</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li><a href="https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP01_Transformer_Encoder_Classification.ipynb" target="_blank">Transformer Encoder Classification</a></li>
+    <li><a href="https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP02_Transformer_Decoder_MoE.ipynb" target="_blank">Transformer Decoder MoE</a></li>
+    <li><a href="https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP03_LoRA.ipynb" target="_blank">LoRA</a></li>
+  </ul>
+</div>
