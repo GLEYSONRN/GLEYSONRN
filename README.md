@@ -72,7 +72,7 @@
 </div>
 
 ## Portfolio
-### M2L Summer School 2024 (Milan -Italy)
+### M2L Summer School 2024 (Milan - Italy)
 
 | Natural Language Processing (NLP) | Computer Vision |
 | --- | --- |
