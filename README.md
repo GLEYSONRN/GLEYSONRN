@@ -71,30 +71,30 @@
   </div>
 </div>
 
-
-<!-- M2L Summer School 2024 -->
-<div style="margin-top: 40px; padding: 20px; text-align: center; background-color: #f8f9fa; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-  <h1>Portfolio</h1>
-  <h2>M2L Summer School 2024</h2>
-  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+<!-- Nova Seção M2L Summer School 2024 -->
+<div style="margin-top: 40px; padding: 20px; background-color: #f8f8f8; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+  <h2 style="text-align: center;">M2L Summer School 2024</h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start; text-align: center;">
     
-    <!-- NLP -->
-    <div style="flex: 1; min-width: 300px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+    <!-- NLP Section -->
+    <div style="flex: 1; min-width: 300px; padding: 20px;">
       <h3>Natural Language Processing (NLP)</h3>
-      <ul style="list-style: none; padding: 0;">
+      <ul style="list-style-type: none; padding: 0;">
         <li><a href="https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP01_Transformer_Encoder_Classification.ipynb" target="_blank">Transformer Encoder Classification</a></li>
         <li><a href="https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP02_Transformer_Decoder_MoE.ipynb" target="_blank">Transformer Decoder MoE</a></li>
         <li><a href="https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP03_LoRA.ipynb" target="_blank">LoRA</a></li>
       </ul>
     </div>
     
-    <!-- Computer Vision -->
-    <div style="flex: 1; min-width: 300px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+    <!-- Computer Vision Section -->
+    <div style="flex: 1; min-width: 300px; padding: 20px;">
       <h3>Computer Vision</h3>
-      <ul style="list-style: none; padding: 0;">
+      <ul style="list-style-type: none; padding: 0;">
         <li><a href="https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV01_Image_classification_with_CNN.ipynb" target="_blank">Image Classification With CNN</a></li>
         <li><a href="https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV02_Semantic_Segmentation_with_Vision_Transformer.ipynb" target="_blank">Semantic Segmentation With Vision Transformer</a></li>
       </ul>
     </div>
+    
   </div>
 </div>
