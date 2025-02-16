@@ -78,6 +78,10 @@
 ## Portfolio
 ### [M2L Summer School 2024 (Milan - Italy)](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/README.md)
 
+I attended the **M2L Summer School 2024**, an intensive AI program organized by **Google DeepMind Researchers** in Milan, Italy. The program covered key topics in **Machine Learning**, **Deep Learning**, and **AI**, including **NLP, Generative Models, Reinforcement Learning, GNNs, and Ethics in AI**.  
+
+This repository contains **Jupyter Notebooks** and resources from the summer school, serving as a reference for the explored concepts. Access the indexed materials and practical implementations in **LLMs, Computer Vision, RL, and GNNs**.  
+
 | LLM and NLP | Computer Vision | Reinforcement Learning | Graph Neural Networks |
 | --- | --- | --- | --- |
 | [Transformer Encoder Classification](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP01_Transformer_Encoder_Classification.ipynb) | [Image Classification With CNN](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV01_Image_classification_with_CNN.ipynb) | [Introduction to Reinforcement Learning](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL01_Introduction_to_Reinforcement_Learning.ipynb) | [Introduction to GNNs](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN01_Introduction_to_gnns.ipynb) |
