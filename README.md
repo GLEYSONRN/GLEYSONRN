@@ -81,7 +81,7 @@
 
 ## Portfolio
 
-### [Google DeepMind - Master’s Degree Research Repository](https://github.com/GLEYSONRN/mastersdegree)
+### [Google DeepMind - Master’s Degree Research](https://github.com/GLEYSONRN/mastersdegree)
 
 This repository contains the implementation and results of a research study conducted at UNICAMP under the Google DeepMind Scholarship for the São Paulo Center for Energy Transition Studies (CPTEn). The study analyzed time series data from the photovoltaic energy plant at the Multidisciplinary Gymnasium (GMU-PV). The research focused on identifying patterns in energy production, developing forecasting models, and implementing fault detection techniques using advanced machine learning and deep learning methodologies.
 
