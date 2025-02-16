@@ -71,6 +71,10 @@
       <a href="https://about.gitlab.com" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
         <img src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="Gleyson-GitLab" width="50" height="50">
       </a>
+      <!-- GitHUB -->
+      <a href="https://github.com" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
+        <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="Gleyson-GitHUB" width="50" height="50">
+      </a>     
     </div>
   </div>
 </div>
