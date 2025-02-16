@@ -76,7 +76,9 @@
 </div>
 
 ## Portfolio
-### [Google DeepMind - Master’s Degree Research Repository](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/README.md](https://github.com/GLEYSONRN/mastersdegree)
+
+### [Google DeepMind - Master’s Degree Research Repository]((https://github.com/GLEYSONRN/mastersdegree)
+
 This repository contains the implementation and results of a research study conducted at UNICAMP under the Google DeepMind Scholarship for the São Paulo Center for Energy Transition Studies (CPTEn). The study analyzed time series data from the photovoltaic energy plant at the Multidisciplinary Gymnasium (GMU-PV). The research focused on identifying patterns in energy production, developing forecasting models, and implementing fault detection techniques using advanced machine learning and deep learning methodologies.
 
 The table below presents the performance of different forecasting architectures:
@@ -89,9 +91,7 @@ The table below presents the performance of different forecasting architectures:
 | [Transformer](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_Transformer.ipynb) | 6.360488 | 75.470166 | 8.687357 | 0.139891 | 0.933586 |
 | [MAPIE (Conformal)](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_Mapie.ipynb) | 6.754780 | 85.191226 | 9.229909 | 0.121518 | 0.925032 |
 
-This research led to the publication of the following paper:
-
-**[Solar Energy Forecasting: Case Study of the UNICAMP Gymnasium](https://link.springer.com/chapter/10.1007/978-3-031-48652-4_7)**
+This research led to the publication of the following paper: **[Solar Energy Forecasting: Case Study of the UNICAMP Gymnasium](https://link.springer.com/chapter/10.1007/978-3-031-48652-4_7)**
 
 
 ### [M2L Summer School 2024 (Milan - Italy)](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/README.md)
