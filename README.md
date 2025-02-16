@@ -76,7 +76,7 @@
 </div>
 
 ## Portfolio
-### M2L Summer School 2024 (Milan - Italy)
+[### M2L Summer School 2024 (Milan - Italy)](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/README.md)
 
 | LLM and NLP | Computer Vision | Reinforcement Learning | Graph Neural Networks |
 | --- | --- | --- | --- |
