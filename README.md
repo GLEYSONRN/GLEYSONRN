@@ -119,7 +119,7 @@ This repository was created to **optimize computational processes** using parall
 
 | **CPU Parallelism** | **GPU Parallelism** |
 |---------------------|---------------------|
-| [SUS Data Analysis with Dask](https://github.com/GLEYSONRN/parallel/blob/main/Final_SP.ipynb) | [Organelle Identification with BloodMNIST](https://github.com/GLEYSONRN/parallel/blob/main/Parallel_GPU.ipynb) |
+| [SUS Data Analysis with Dask](https://github.com/GLEYSONRN/parallel/blob/main/Final_SP.ipynb) | [Organelle Identification with Multi GPU](https://github.com/GLEYSONRN/parallel/blob/main/Parallel_GPU.ipynb) |
 
 
 
