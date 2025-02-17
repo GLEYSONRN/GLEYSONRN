@@ -83,7 +83,7 @@
 
 ### [Google DeepMind - Master’s Degree Research](https://github.com/GLEYSONRN/mastersdegree)
 
-This repository contains the implementation and results of a research study conducted at UNICAMP under the Google DeepMind Scholarship for the São Paulo Center for Energy Transition Studies (CPTEn). The study analyzed time series data from the photovoltaic energy plant at the Multidisciplinary Gymnasium (GMU-PV). The research focused on identifying patterns in energy production, developing forecasting models, and implementing fault detection techniques using advanced machine learning and deep learning methodologies.
+This repository presents the implementation and findings of a research study conducted at UNICAMP under the Google DeepMind Scholarship for the São Paulo Center for Energy Transition Studies (CPTEn). The study analyzed time series data from the photovoltaic energy plant at the Multidisciplinary Gymnasium (GMU-PV), aiming to identify patterns in energy production, develop forecasting models, and implement fault detection techniques using advanced machine learning and deep learning methodologies. **As a result, the research achieved a 15% reduction in the cost of contracted energy.**
 
 The table below presents the performance of different forecasting architectures:
 
