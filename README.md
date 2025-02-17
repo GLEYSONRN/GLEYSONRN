@@ -99,7 +99,7 @@ The table below presents the performance of different forecasting architectures:
 This research led to the publication of the following paper: **[Solar Energy Forecasting: Case Study of the UNICAMP Gymnasium](https://link.springer.com/chapter/10.1007/978-3-031-48652-4_7)**
 ___
 
-### 📌 [M2L Summer School 2024 (Milan - Italy)](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/README.md)
+### 📌 [M2L Summer School 2024 (Milan - Italy)](https://github.com/GLEYSONRN/m2lsummerschool)
 
 I attended the **M2L Summer School 2024**, an intensive AI program organized by **Google DeepMind Researchers** in Milan, Italy. The program covered key topics in **Machine Learning**, **Deep Learning**, and **AI**, including **NLP, Generative Models, Reinforcement Learning, GNNs, and Ethics in AI**.  
 
@@ -111,3 +111,10 @@ This repository showcases the Jupyter Notebooks I worked on during the M2L Summe
 | [Transformer Encoder Classification](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP01_Transformer_Encoder_Classification.ipynb) | [Image Classification With CNN](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV01_Image_classification_with_CNN.ipynb) | [Introduction to Reinforcement Learning](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL01_Introduction_to_Reinforcement_Learning.ipynb) | [Introduction to GNNs](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN01_Introduction_to_gnns.ipynb) |
 | [Transformer Decoder MoE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP02_Transformer_Decoder_MoE.ipynb) | [Semantic Segmentation With Vision Transformer](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV02_Semantic_Segmentation_with_Vision_Transformer.ipynb) | [Policy Gradient Methods](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL02_Policy_gradient_methods.ipynb) | [Missing Data Estimation](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN02_Missing_data_estimation.ipynb) |
 | [LLM Fine-Tuning With LoRA](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP03_LoRA.ipynb) | [Vector Quantization With VQ-VAE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV03_Vector_Quantization_with_Variational_AutoEncoder.ipynb) | [Reinforcement Learning With Human Feedback](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL03_Reinforcement_Learning_with_Human_Feedback.ipynb) | [Scaling GNNs to Massive Graphs](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN03_Scaling_GNNs_to_massive_graphs.ipynb) |
+
+---
+### 📌 [Optimizing Workflows with CPU and GPU Parallelism](https://github.com/GLEYSONRN/parallel)  
+
+This repository was designed to **optimize computational processes** using parallelism in both **CPUs and GPUs**. It includes two key notebooks: **[SUS Data Analysis with Dask](https://github.com/GLEYSONRN/parallel/blob/main/Final_SP.ipynb)**, which utilizes **Dask** to efficiently process large-scale healthcare data through CPU parallelism, and **[Organelle Identification with BloodMNIST on Multiple GPUs](https://github.com/GLEYSONRN/parallel/blob/main/Parallel_GPU.ipynb)**, which applies **deep learning** techniques and distributed training across multiple GPUs to accelerate image analysis. This project demonstrates scalable solutions for handling large datasets and computationally intensive models.  
+
+
