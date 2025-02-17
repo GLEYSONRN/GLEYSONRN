@@ -113,21 +113,15 @@ This repository showcases the Jupyter Notebooks I worked on during the M2L Summe
 | [LLM Fine-Tuning With LoRA](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/NLP03_LoRA.ipynb) | [Vector Quantization With VQ-VAE](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/CV03_Vector_Quantization_with_Variational_AutoEncoder.ipynb) | [Reinforcement Learning With Human Feedback](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/RL03_Reinforcement_Learning_with_Human_Feedback.ipynb) | [Scaling GNNs to Massive Graphs](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/GNN03_Scaling_GNNs_to_massive_graphs.ipynb) |
 
 ---
-### 📌 [Optimizing Workflows with CPU and GPU Parallelism](https://github.com/GLEYSONRN/parallel)  
+### 📌 [Optimizing Workflows with CPU and GPU Parallelism](https://github.com/GLEYSONRN/parallel)
 
-This repository was developed to **optimize computational processes** using parallelism in both **CPUs and GPUs**. It includes two main notebooks:
+This repository was designed to **optimize computational processes** using parallelism in both **CPUs and GPUs**. It includes two key notebooks that showcase different parallel computing strategies:
 
-#### CPU Parallelism: [SUS Data Analysis with Dask](https://github.com/GLEYSONRN/parallel/blob/main/Final_SP.ipynb)
-- Utilizes **Dask** to efficiently process large-scale healthcare data.
-- Explores CPU parallelism techniques to enhance performance.
-- Enables scalability in massive data analysis.
+| **CPU Parallelism** | **GPU Parallelism** |
+|---------------------|---------------------|
+| [SUS Data Analysis with Dask](https://github.com/GLEYSONRN/parallel/blob/main/Final_SP.ipynb) <br> This notebook leverages **Dask**, a parallel computing library, to efficiently process large-scale healthcare data. It demonstrates how CPU parallelism can be utilized to optimize data analysis tasks, reducing processing time for complex operations on large datasets. | [Organelle Identification with BloodMNIST](https://github.com/GLEYSONRN/parallel/blob/main/Parallel_GPU.ipynb) <br> This notebook applies **deep learning** techniques for medical image analysis using the BloodMNIST dataset. It utilizes **distributed training across multiple GPUs**, significantly accelerating the computational process required for image classification and segmentation tasks. |
 
-#### GPU Parallelism: [Organelle Identification with BloodMNIST on Multiple GPUs](https://github.com/GLEYSONRN/parallel/blob/main/Parallel_GPU.ipynb)
-- Applies **deep learning** for organelle identification in medical images.
-- Uses multiple **GPUs** for distributed training and computational acceleration.
-- Demonstrates scalable solutions for computationally intensive models.
-
-This project showcases efficient approaches for handling large datasets and complex models through strategic computational parallelism.
+This project demonstrates **scalable solutions** for handling large datasets and computationally intensive models, making it a valuable resource for those working with **high-performance computing (HPC), machine learning, and data analysis**.
 
 
 
