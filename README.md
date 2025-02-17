@@ -87,13 +87,14 @@ This repository contains the implementation and results of a research study cond
 
 The table below presents the performance of different forecasting architectures:
 
-| Architecture | MAE | MSE | RMSE | MAPE | R² |
-|-------------|-----|-----|------|------|-----|
-| [CNN](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_CNN.ipynb) | 5.637886 | 60.108512 | 7.752968 | 0.109488 | 0.947105 |
-| [AutoML](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_AutoML.ipynb) | 6.317669 | 73.302349 | 8.561679 | 0.127132 | 0.935494 |
-| [LSTM](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_LSTM.ipynb) | 6.854408 | 75.283450 | 8.676604 | 0.117381 | 0.933751 |
-| [Transformer](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_Transformer.ipynb) | 6.360488 | 75.470166 | 8.687357 | 0.139891 | 0.933586 |
-| [Conformal Prediction](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_Mapie.ipynb) | 6.754780 | 85.191226 | 9.229909 | 0.121518 | 0.925032 |
+| Architecture | R²   | MAE   | MSE   | RMSE  | MAPE  |
+|-------------|------|-------|-------|-------|-------|
+| [CNN](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_CNN.ipynb) | 0.947 | 5.638 | 60.109 | 7.753 | 0.109 |
+| [AutoML](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_AutoML.ipynb) | 0.935 | 6.318 | 73.302 | 8.562 | 0.127 |
+| [LSTM](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_LSTM.ipynb) | 0.934 | 6.854 | 75.283 | 8.677 | 0.117 |
+| [Transformer](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_Transformer.ipynb) | 0.934 | 6.360 | 75.470 | 8.687 | 0.140 |
+| [Conformal Prediction](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_Mapie.ipynb) | 0.925 | 6.755 | 85.191 | 9.230 | 0.122 |
+
 
 This research led to the publication of the following paper: **[Solar Energy Forecasting: Case Study of the UNICAMP Gymnasium](https://link.springer.com/chapter/10.1007/978-3-031-48652-4_7)**
 _____________________________________________________________________________________________________________
