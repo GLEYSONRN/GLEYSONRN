@@ -115,13 +115,11 @@ This repository showcases the Jupyter Notebooks I worked on during the M2L Summe
 ---
 ### 📌 [Optimizing Workflows with CPU and GPU Parallelism](https://github.com/GLEYSONRN/parallel)
 
-This repository was designed to **optimize computational processes** using parallelism in both **CPUs and GPUs**. It includes two key notebooks that showcase different parallel computing strategies:
+This repository was created to **optimize computational processes** using parallelism in both **CPUs and GPUs**. The project includes two key notebooks: one focusing on **CPU parallelism** with **Dask**, which enables efficient processing of large-scale healthcare data, and another leveraging **GPU parallelism** for deep learning-based **image analysis** using distributed training. These implementations demonstrate scalable solutions for handling large datasets and computationally intensive tasks.
 
 | **CPU Parallelism** | **GPU Parallelism** |
 |---------------------|---------------------|
-| [SUS Data Analysis with Dask](https://github.com/GLEYSONRN/parallel/blob/main/Final_SP.ipynb) <br> This notebook leverages **Dask**, a parallel computing library, to efficiently process large-scale healthcare data. It demonstrates how CPU parallelism can be utilized to optimize data analysis tasks, reducing processing time for complex operations on large datasets. | [Organelle Identification with BloodMNIST](https://github.com/GLEYSONRN/parallel/blob/main/Parallel_GPU.ipynb) <br> This notebook applies **deep learning** techniques for medical image analysis using the BloodMNIST dataset. It utilizes **distributed training across multiple GPUs**, significantly accelerating the computational process required for image classification and segmentation tasks. |
-
-This project demonstrates **scalable solutions** for handling large datasets and computationally intensive models, making it a valuable resource for those working with **high-performance computing (HPC), machine learning, and data analysis**.
+| [SUS Data Analysis with Dask](https://github.com/GLEYSONRN/parallel/blob/main/Final_SP.ipynb) | [Organelle Identification with BloodMNIST](https://github.com/GLEYSONRN/parallel/blob/main/Parallel_GPU.ipynb) |
 
 
 
