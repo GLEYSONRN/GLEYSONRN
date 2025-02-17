@@ -97,7 +97,7 @@ The table below presents the performance of different forecasting architectures:
 
 
 This research led to the publication of the following paper: **[Solar Energy Forecasting: Case Study of the UNICAMP Gymnasium](https://link.springer.com/chapter/10.1007/978-3-031-48652-4_7)**
-_____________________________________________________________________________________________________________
+___
 
 ### [M2L Summer School 2024 (Milan - Italy)](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/README.md)
 
