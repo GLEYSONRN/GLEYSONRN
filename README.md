@@ -81,7 +81,7 @@
 
 ## Public Portfolio
 
-### [Google DeepMind - Master’s Degree Research](https://github.com/GLEYSONRN/mastersdegree)
+### 📌 [Google DeepMind - Master’s Degree Research](https://github.com/GLEYSONRN/mastersdegree)
 
 This repository presents the implementation and findings of a research study conducted at UNICAMP under the Google DeepMind Scholarship for the São Paulo Center for Energy Transition Studies (CPTEn). The study analyzed time series data from the photovoltaic energy plant at the Multidisciplinary Gymnasium (GMU-PV), aiming to identify patterns in energy production, develop forecasting models, and implement fault detection techniques using advanced machine learning and deep learning methodologies. **As a result, the research achieved a 15% reduction in the cost of contracted energy.**
 
@@ -99,7 +99,7 @@ The table below presents the performance of different forecasting architectures:
 This research led to the publication of the following paper: **[Solar Energy Forecasting: Case Study of the UNICAMP Gymnasium](https://link.springer.com/chapter/10.1007/978-3-031-48652-4_7)**
 ___
 
-### [M2L Summer School 2024 (Milan - Italy)](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/README.md)
+### 📌 [M2L Summer School 2024 (Milan - Italy)](https://github.com/GLEYSONRN/m2lsummerschool/blob/main/README.md)
 
 I attended the **M2L Summer School 2024**, an intensive AI program organized by **Google DeepMind Researchers** in Milan, Italy. The program covered key topics in **Machine Learning**, **Deep Learning**, and **AI**, including **NLP, Generative Models, Reinforcement Learning, GNNs, and Ethics in AI**.  
 
