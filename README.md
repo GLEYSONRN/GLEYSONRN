@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
+</p>
+
+
 # Gleyson Roberto do Nascimento  
 
 🚀 **Data Scientist | Machine Learning | Deep Learning | AI for Energy Optimization**  
