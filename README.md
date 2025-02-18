@@ -29,15 +29,15 @@
       </a>
       <!-- DeepSeek -->
       <a href="https://deepseek.com" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg" alt="Gleyson-DeepSeek" width="70" height="70">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg" alt="Gleyson-DeepSeek" width="80" height="80">
       </a>
       <!-- Streamlit -->
       <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Gleyson-Streamlit" width="70" height="70">
+        <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Gleyson-Streamlit" width="80" height="80">
       </a>
       <!-- Langflow -->
       <a href="https://www.langflow.org/" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://docs.langflow.org/img/langflow-logo-black.svg" alt="Gleyson-Langflow" width="70" height="70">
+        <img src="https://docs.langflow.org/img/langflow-logo-black.svg" alt="Gleyson-Langflow" width="80" height="80">
       </a>      
       <!-- PySpark -->
       <a href="https://spark.apache.org" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
