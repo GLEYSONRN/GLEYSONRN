@@ -11,52 +11,6 @@
   <!-- Tecnologias (Fundo Branco) -->
   <div style="flex: 1; min-width: 300px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
     <h2>I'm skilled in:</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-      
-      <!-- Python -->
-      <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: black;">
-        <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="50" height="50">
-        <span style="margin-top: 5px; font-size: 14px; font-weight: bold;">Python</span>
-      </a>
-
-      <!-- TensorFlow -->
-      <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: black;">
-        <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="TensorFlow" width="50" height="50">
-        <span style="margin-top: 5px; font-size: 14px; font-weight: bold;">TensorFlow</span>
-      </a>
-
-      <!-- Keras -->
-      <a href="https://keras.io" target="_blank" rel="noopener noreferrer" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: black;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50">
-        <span style="margin-top: 5px; font-size: 14px; font-weight: bold;">Keras</span>
-      </a>
-
-      <!-- Scikit-learn -->
-      <a href="https://scikit-learn.org" target="_blank" rel="noopener noreferrer" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: black;">
-        <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-learn" width="60" height="60">
-        <span style="margin-top: 5px; font-size: 14px; font-weight: bold;">Scikit-learn</span>
-      </a>
-
-      <!-- ChatGPT -->
-      <a href="https://openai.com/chatgpt" target="_blank" rel="noopener noreferrer" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: black;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="60" height="60">
-        <span style="margin-top: 5px; font-size: 14px; font-weight: bold;">ChatGPT</span>
-      </a>
-
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; text-align: center;">
-  <!-- Tecnologias (Fundo Branco) -->
-  <div style="flex: 1; min-width: 300px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <h2>I'm skilled in:</h2>
     <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center;">
       <!-- Python -->
       <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
