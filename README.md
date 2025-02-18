@@ -33,11 +33,11 @@
       </a>
       <!-- Streamlit -->
       <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Gleyson-Streamlit" width="70" height="70">
+        <img src="https://raw.githubusercontent.com/rlew631/rlew631/5fcb1cee69c8034bfa2b98aad94b584fcff8d84f/streamlit_red.svg" alt="Gleyson-Streamlit" width="70" height="70">
       </a>
-      <!-- Langflow -->
+      <!-- LangChain -->
       <a href="https://www.langflow.org/" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://docs.langflow.org/img/langflow-logo-black.svg" alt="Gleyson-Langflow" width="70" height="70">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.24.0/files/dark/langchain-color.png" alt="Gleyson-LangChain" width="70" height="70">
       </a>      
       <!-- PySpark -->
       <a href="https://spark.apache.org" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
