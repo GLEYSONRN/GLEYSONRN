@@ -87,7 +87,7 @@ This repository presents the implementation and findings of a research study con
 
 The table below presents the performance of different forecasting architectures:
 
-| Architecture | R²   | MAE   | MSE   | RMSE  | MAPE  |
+| Model | R²   | MAE   | MSE   | RMSE  | MAPE  |
 |-------------|------|-------|-------|-------|-------|
 | [CNN](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_CNN.ipynb) | 0.947 | 5.638 | 60.109 | 7.753 | 0.109 |
 | [AutoML](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_AutoML.ipynb) | 0.935 | 6.318 | 73.302 | 8.562 | 0.127 |
