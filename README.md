@@ -35,11 +35,11 @@
       </a>
       <!-- Gemini -->
       <a href="https://deepmind.google/gemini" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gleyson-Gemini" width="70" height="70">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" alt="Gleyson-Gemini" width="60" height="60">
       </a>
       <!-- DeepSeek -->
       <a href="https://deepseek.com" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg" alt="Gleyson-DeepSeek" width="70" height="70">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.24.0/files/dark/deepseek-color.png" alt="Gleyson-DeepSeek" width="60" height="60">
       </a>
       <!-- Streamlit -->
       <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
