@@ -1,6 +1,5 @@
 # Gleyson Roberto do Nascimento  
-
-<div align="center">
+<div align="justify">
   <table>
     <tr>
       <td>
@@ -12,14 +11,11 @@
         </a>
       </td>
       <td>
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250">
       </td>
     </tr>
   </table>
 </div>
-
-
-
 
 ---
 
