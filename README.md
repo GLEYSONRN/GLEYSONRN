@@ -1,21 +1,23 @@
 # Gleyson Roberto do Nascimento  
 
-<table>
-  <tr>
-    <td>
-      🚀 <b>Data Scientist | Machine Learning | Deep Learning | AI for Energy Optimization</b><br>
-      🎓 <b>Google DeepMind Scholar | MSc Student @ UNICAMP</b><br>
-      🔬 <b>Researcher in AI & Sustainable Energy</b><br><br>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        🚀 <b>Data Scientist | Machine Learning | Deep Learning | AI for Energy Optimization</b><br>
+        🎓 <b>Google DeepMind Scholar | MSc Student @ UNICAMP</b><br>
+        🔬 <b>Researcher in AI & Sustainable Energy</b><br><br>
+        <a href="https://www.linkedin.com/in/gleyson-roberto-do-nascimento/">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+        </a>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
+      </td>
+    </tr>
+  </table>
+</div>
 
-      <a href="https://www.linkedin.com/in/gleyson-roberto-do-nascimento/">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
-      </a>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
-    </td>
-  </tr>
-</table>
 
 
 
