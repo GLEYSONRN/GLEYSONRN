@@ -19,7 +19,7 @@
       </a>
       <!-- TensorFlow -->
       <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Gleyson-TensorFlow" width="50" height="50">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.png" alt="Gleyson-TensorFlow" width="50" height="50">
       </a>
       <!-- Keras -->
       <a href="https://keras.io" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
@@ -51,7 +51,7 @@
       </a>      
       <!-- PySpark -->
       <a href="https://spark.apache.org" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Gleyson-PySpark" width="60" height="60">
+        <img src="https://image.pngaaa.com/478/7261478-middle.png" alt="Gleyson-PySpark" width="60" height="60">
       </a>
       <!-- Kubernetes -->
       <a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
