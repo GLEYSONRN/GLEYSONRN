@@ -1,7 +1,7 @@
 # Gleyson Roberto do Nascimento  
 
 🚀 **Data Scientist | Machine Learning | Deep Learning | AI for Energy Optimization**  
-🎓 **Google DeepMind Scholar | MSc Student @ UNICAMP**  
+🎓 **Google DeepMind Scholar | PhD Student @ UNICAMP |  Master in Computer Science @ UNICAMP**  
 🔬 **Researcher in AI & Sustainable Energy**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gleyson-roberto-do-nascimento/)  
