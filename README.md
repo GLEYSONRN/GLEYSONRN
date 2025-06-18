@@ -19,7 +19,7 @@
       </a>
       <!-- TensorFlow -->
       <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.png" alt="Gleyson-TensorFlow" width="50" height="50">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.png](https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="Gleyson-TensorFlow" width="50" height="50">
       </a>
       <!-- Keras -->
       <a href="https://keras.io" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
@@ -35,7 +35,7 @@
       </a>
       <!-- Gemini -->
       <a href="https://deepmind.google/gemini" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" alt="Gleyson-Gemini" width="60" height="60">
+        <img src="https://images.seeklogo.com/logo-png/61/2/gemini-icon-logo-png_seeklogo-611605.png" alt="Gleyson-Gemini" width="60" height="60">
       </a>
       <!-- DeepSeek -->
       <a href="https://deepseek.com" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
