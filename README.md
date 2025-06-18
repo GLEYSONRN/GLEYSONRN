@@ -35,7 +35,7 @@
       </a>
       <!-- Gemini -->
       <a href="https://deepmind.google/gemini" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://commons.wikimedia.org/wiki/File:Google-gemini-icon.svg" alt="Gleyson-Gemini" width="60" height="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/768px-Google-gemini-icon.svg.png?20240826133250" alt="Gleyson-Gemini" width="60" height="60">
       </a>
       <!-- DeepSeek -->
       <a href="https://deepseek.com" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
