@@ -19,7 +19,7 @@
       </a>
       <!-- TensorFlow -->
       <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.png](https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="Gleyson-TensorFlow" width="50" height="50">
+        <img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="Gleyson-TensorFlow" width="50" height="50">
       </a>
       <!-- Keras -->
       <a href="https://keras.io" target="_blank" rel="noopener noreferrer" style="display: flex; text-decoration: none;">
